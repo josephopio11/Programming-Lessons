@@ -1,0 +1,14 @@
+Object Oriented Programming
+Object-oriented programming (OOP) is a programming methodology that uses selfcontained
+objects, which contain programming statements (methods) and data, and
+which communicate with each other. This programming paradigm is often used to solve
+more complex problems as it enables programmers to work with real life things.
+Many procedural programming languages have been developed to support OOP. For
+example, Java, Python and Visual Basic all allow programmers to use either procedural
+programming or OOP.
+Advantages of OOP Over Procedural Languages
+The advantage of OOP is that it produces robust, more reliable code. The attributes can
+only be manipulated using methods provided by the class definition. This means the
+attributes are protected from accidental changes. Classes provided in module libraries are
+thoroughly tested. If you use tried and tested building blocks to construct your program,
+you are less likely to introduce bugs than when you write code from scratch.
