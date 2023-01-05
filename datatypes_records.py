@@ -44,9 +44,6 @@
 # ENDIF
 
 
-
-
-
 def linear_search(list_of_items, search_value):
     MaxIndex = len(list_of_items)
     Found = False
@@ -66,9 +63,6 @@ MyList = [3, 7, 1, 9, 0, 4, 6]
 SearchValue = int(input("Enter search value: "))
 
 linear_search(MyList, SearchValue)
-
-
-
 
 # matrix = [[1, 2, 3], [2, 3, 4], [3, 4, 5]]
 #
