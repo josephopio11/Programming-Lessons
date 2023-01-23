@@ -42,3 +42,12 @@ class Car:
 
     def GetEngineSize(self):
         return self.__EngineSize
+
+
+
+MyCar = Car("123ABC", 2400)
+WifeysCar = Car("135JPQ", 1200)
+
+MyCar.SetRegistrationNumber("890ryue")
+print(MyCar.GetRegistration())
+print(MyCar.GetEngineSize())

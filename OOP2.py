@@ -38,5 +38,11 @@ class Car:
         self.__PurchasePrice = p
 
 
+MyCar = Car("123ABC", 2400)
+WifeysCar = Car("135JPQ", 1200)
 
+MyCar.Registration = "ASC321"
+
+print(MyCar.Registration)
+print(MyCar.VehicleId)
 
